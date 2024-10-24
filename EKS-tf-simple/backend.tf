@@ -10,4 +10,4 @@ terraform {
     key    = "tf/terraform.tfstate"
     region = "us-east-2"
   }
-}
+} 
